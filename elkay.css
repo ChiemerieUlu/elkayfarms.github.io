@@ -116,12 +116,12 @@ body {
 }
 
 .copyright ul{
-  text-align: right;
+  text-align: center;
 }
 
 .copyright p{
     color: #fff;
-    text-align: left;
+    text-align: center;
     font-size: 17px;
     line-height: 22px;
     font-weight: normal;
